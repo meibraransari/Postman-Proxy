@@ -1,6 +1,6 @@
 ---
 Created: 2024-08-05T16:17:28+05:30
-Updated: 2024-08-05T16:36:21+05:30
+Updated: 2024-08-05T16:36:58+05:30
 Maintainer: Ibrar Ansari
 ---
 # HTTP Proxy Setup For Postman
@@ -65,6 +65,7 @@ Go to Postman -> Preferences -> Proxy
    - **Proxy Server**: 127.0.0.1
    - **Port**: 8080
 
+---
 
 ### 💼 Connect with me 👇👇 😊
 
