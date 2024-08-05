@@ -1,9 +1,13 @@
 ---
 Created: 2024-08-05T16:17:28+05:30
-Updated: 2024-08-05T16:36:58+05:30
+Updated: 2024-08-05T16:46:53+05:30
 Maintainer: Ibrar Ansari
 ---
 # HTTP Proxy Setup For Postman
+
+## About
+
+`hpts` purpose is to create HTTP proxy on top of the Socks 5 Proxy
 
 hpts(http-proxy-to-socks) is a nodejs tool to convert SOCKS proxy into http proxy.
 
