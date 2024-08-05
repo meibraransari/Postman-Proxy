@@ -1,6 +1,6 @@
 ---
 Created: 2024-08-05T16:17:28+05:30
-Updated: 2024-08-05T16:27:41+05:30
+Updated: 2024-08-05T16:30:32+05:30
 Maintainer: Ibrar Ansari
 ---
 # HTTP Proxy Setup For Postman
@@ -56,13 +56,14 @@ You can specify a `json` config file with `-c`:
 
 
 ## Postman Configuration
-
+<br/><br/>
 Go to Postman -> Preferences -> Proxy
 Check "Use System Proxy" and check "Respect HTTP_PROXY, HTTPS_PROXY, and NO_PROXY environment variables"
 Add a custom proxy configuration
 Proxy Type: HTTP
 Proxy Server: 127.0.0.1
 Port: 8080
+<br/><br/>
 
 
 ### 💼 Connect with me 👇👇 😊
