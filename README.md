@@ -1,6 +1,6 @@
 ---
 Created: 2024-08-05T16:17:28+05:30
-Updated: 2024-08-05T16:32:04+05:30
+Updated: 2024-08-05T16:32:45+05:30
 Maintainer: Ibrar Ansari
 ---
 # HTTP Proxy Setup For Postman
@@ -63,7 +63,7 @@ Add a custom proxy configuration
 Proxy Type: HTTP
 Proxy Server: 127.0.0.1
 Port: 8080
-<p/>
+</p>
 
 ### 💼 Connect with me 👇👇 😊
 
